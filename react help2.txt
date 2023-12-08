@@ -1,0 +1,5 @@
+npm uninstall -g create-react-app
+npm install -g create-react-app
+npm cache clean --force
+npm install -g npm@latest
+npm cache clean --force
